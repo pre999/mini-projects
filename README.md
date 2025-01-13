@@ -1,4 +1,4 @@
-# mini-projects
+# Mini-Projects
 Mini Projects Repository
 Welcome to the Mini Projects Repository! This repository contains a collection of small, interactive web-based projects developed using HTML, CSS, and JavaScript. These projects are perfect for demonstrating fundamental web development skills and showcasing creativity.
 
